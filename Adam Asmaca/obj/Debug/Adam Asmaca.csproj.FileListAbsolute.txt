@@ -1,0 +1,9 @@
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.GenerateResource.Cache
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb
